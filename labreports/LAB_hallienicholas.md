@@ -4,7 +4,7 @@ ___
 **Instructor(s):** [Trevor Bunch](https://github.com/trevordbunch)  
 **Name:** Your Name  
 **GitHub Handle:** Your GitHub Handle  
-**Repository:** Your Forked Repository
+**Repository:** Your Forked Repository  
 ___
 
 # Step 1: Fork this repository
